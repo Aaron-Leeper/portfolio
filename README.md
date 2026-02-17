@@ -1,3 +1,5 @@
+[Armor One Routing](armor-one/cable-routing/at-height-routing-plan-and-execution.md)
+
 # portfolio
 Engineering portfolio – field robotics integration, process and manufacturing engineering, fabrication, and LSCS / CogniMotion architecture
 # Aaron D. Leeper – Engineering Portfolio
