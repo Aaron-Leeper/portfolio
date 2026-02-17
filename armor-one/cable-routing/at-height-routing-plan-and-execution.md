@@ -220,3 +220,12 @@ The man-lift-based routing method provided:
 - Successful routing on both sides of the barge
 
 This method is now validated for continued use on Armor One cable routing operations.
+
+## Field Photos
+
+### North Side Routing (pre)
+![North Side Routing](Images/north-pre.png)
+
+### North Side Routing (installed)
+![North Side Installed](Images/north-side.jpg)
+
