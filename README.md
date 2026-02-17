@@ -1,2 +1,14 @@
 # portfolio
 Engineering portfolio – field robotics integration, process and manufacturing engineering, fabrication, and LSCS / CogniMotion architecture
+# Aaron D. Leeper – Engineering Portfolio
+
+Electrical Integration | Robotic Systems | Field Deployment | LSCS / CogniMotion
+
+## Armor One – Robotic Revetment Placement System
+Cable routing, field integration, labeling, and subsystem bring-up.
+
+## LSCS / CogniMotion
+Governed cognitive system architecture and deterministic coherence model.
+
+## Fabrication & Electrical
+Custom hangers, sheet metal design, harnessing, and field installs.
