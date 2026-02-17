@@ -7,6 +7,8 @@ Electrical Integration | Robotic Systems | Field Deployment | LSCS / CogniMotion
 ## Armor One – Robotic Revetment Placement System
 Cable routing, field integration, labeling, and subsystem bring-up.
 
+[View At-Height Routing Project →](armor-one/cable-routing/at-height-routing-plan-and-execution.md)
+
 ## LSCS / CogniMotion
 Governed cognitive system architecture and deterministic coherence model.
 
